@@ -1,0 +1,105 @@
+
+body {
+  font-family: "Montserrat";
+}
+
+.profile {
+  width: 270px;
+  margin-bottom: 20px;
+}
+
+.card-img-top {
+  width: 300px;
+  margin-left: 200px;
+}
+
+.card {
+  border-radius: 15px;
+  background-color: #FBF8F8;
+}
+
+.card-title {
+  margin-left: 100px;
+}
+
+.card-text {
+  margin-left: 100px;
+}
+
+.hero {
+  margin: 60px;
+}
+
+.profile {
+  margin-right: 100px;
+}
+
+.container-fluid {
+  padding: 1% 5%;
+  color: #624450;
+}
+
+.text {
+  padding-top: 50px;
+
+}
+
+
+h1 {
+  font-family: Montserrat-bold;
+  color: #624450;
+}
+
+p {
+  color: black;
+}
+
+.image {
+  margin-right: 20px;
+}
+
+/*Sections*/
+.colored-section {
+  background-color: #F4ECEC;
+  color: #8f8f8f;
+}
+
+
+/*Navbar-bar */
+.navbar {
+  top: 20px;
+  color: #624450;
+}
+
+.name {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.navbar-brand {
+  font-family: "swap";
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat";
+}
+
+.nav-item {
+  padding-left: 30px;
+}
+
+.navbar-nav {
+  position: absolute;
+  right: 50px;
+}
+
+.py-5 {
+  background-color: #F4ECEC;
+  text-align: center;
+}
+.py{
+  text-align: center;
+}
